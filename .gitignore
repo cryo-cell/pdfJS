@@ -1,0 +1,5 @@
+node_modules
+*.pdf 
+package.lock.json
+htmlfromUrl
+pdfJS_2
